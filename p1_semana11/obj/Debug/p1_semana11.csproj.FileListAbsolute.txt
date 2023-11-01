@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\sistemas\p1_semana11\p1_semana11\bin\Debug\p1_semana11.exe.config
+C:\Users\USUARIO\Desktop\sistemas\p1_semana11\p1_semana11\bin\Debug\p1_semana11.exe
+C:\Users\USUARIO\Desktop\sistemas\p1_semana11\p1_semana11\bin\Debug\p1_semana11.pdb
+C:\Users\USUARIO\Desktop\sistemas\p1_semana11\p1_semana11\obj\Debug\p1_semana11.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\sistemas\p1_semana11\p1_semana11\obj\Debug\p1_semana11.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\sistemas\p1_semana11\p1_semana11\obj\Debug\p1_semana11.exe
+C:\Users\USUARIO\Desktop\sistemas\p1_semana11\p1_semana11\obj\Debug\p1_semana11.pdb
